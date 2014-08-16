@@ -98,6 +98,19 @@ footer {
 	width: 100%;
 }
 
+h1 {
+	font-family: "Arual";
+	font-size: 7.5em;
+	margin-bottom: .4em;
+}
+
+	h1 span {
+		color: #49BE65;
+		position: relative;
+		top: .08em;
+		font-size: 1.4em;
+	}
+
 small {
 	color: #DDD;
 	font-size: 0.8em;
@@ -143,7 +156,7 @@ p {
 	}
 
 .teaser {
-	margin: .5em 0;
+	margin: 1em 0;
 	font-size: 1.5em;
 	line-height: 1em;
 }
