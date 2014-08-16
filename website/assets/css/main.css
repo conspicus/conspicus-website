@@ -144,6 +144,12 @@ p {
 		padding-bottom: 2em;
 	}
 
+	.welcome p {
+		margin: 1em 0;
+		font-size: 1.5em;
+		line-height: 1em;
+	}
+
 #logo {
 	width: 100%;
 	max-width: 90vw;
@@ -154,9 +160,3 @@ p {
 			max-width: 40em;
 		}
 	}
-
-.teaser {
-	margin: 1em 0;
-	font-size: 1.5em;
-	line-height: 1em;
-}
